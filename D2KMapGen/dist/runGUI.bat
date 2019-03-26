@@ -1,0 +1,1 @@
+java -cp "D2KMapGen.jar" d2kmapgen.GUI

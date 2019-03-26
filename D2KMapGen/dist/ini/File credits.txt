@@ -1,0 +1,2 @@
+BLOX*.ini files were originally included in Map and Mission Editor v1.2
+_spawn.MIS originally included in Dune 2000: Gruntmods Edition 1.6.2
