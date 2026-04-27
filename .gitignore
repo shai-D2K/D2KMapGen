@@ -21,3 +21,14 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/D2KMapGen/dist/
+/D2KMapGen/output/
+
+/D2KMapGen/nbproject/private/
+/D2KMapGen/nbproject/Makefile-*.mk
+/D2KMapGen/nbproject/Package-*.bash
+/D2KMapGen/build/
+/D2KMapGen/nbbuild/
+/D2KMapGen/dist/
+/D2KMapGen/nbdist/
+.nb-gradle/
